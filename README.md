@@ -2,7 +2,6 @@
 - 👀 I’m interested in html, css and javascript
 - 🌱 I’m currently learning vue and node
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me on [Twitter](https://twitter.com/r41n_tw)
 
 <!---
 r41n-gh/r41n-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
